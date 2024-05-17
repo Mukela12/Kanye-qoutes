@@ -54,7 +54,7 @@ const Quote = () => {
         };
 
         fetchQuote();
-        const intervalId = setInterval(fetchQuote, 20000);
+        const intervalId = setInterval(fetchQuote, 10000);
         return () => clearInterval(intervalId);
     }, []);
 
