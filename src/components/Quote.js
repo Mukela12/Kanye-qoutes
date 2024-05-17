@@ -28,7 +28,7 @@ const images = [
   'https://res.cloudinary.com/dgdbxflan/image/upload/v1715925342/5fe54c20-7e17-4ba1-8a86-15e573717142_n9xean.jpg',
   'https://res.cloudinary.com/dgdbxflan/image/upload/v1715925342/24c6a0b1-d543-4b47-8cd3-355a59f58f0b_p0nt1o.jpg',
   'https://res.cloudinary.com/dgdbxflan/image/upload/v1715937746/whats-your-best-kanye-reaction-meme-v0-8twms4av2fka1_vza9ia.webp',
-  'https://res.cloudinary.com/dgdbxflan/image/upload/v1715937745/417457527670_k7jl85.webp'
+  'https://res.cloudinary.com/dgdbxflan/image/upload/v1715937745/417457527670_k7jl85.webp',
   'https://res.cloudinary.com/dgdbxflan/image/upload/v1715937745/30ce29dd-1f37-4866-ad75-016378a25f15_962x1203_gchvur.jpg',
   'https://res.cloudinary.com/dgdbxflan/image/upload/v1715937745/OPH7CX54UVJMVDSR56CFJUXMY4_ay5v9p.avif',
   'https://res.cloudinary.com/dgdbxflan/image/upload/v1715937745/4905_cwfxfo.webp',
