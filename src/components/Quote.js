@@ -26,7 +26,20 @@ const images = [
   'https://res.cloudinary.com/dgdbxflan/image/upload/v1715925342/a45ed6db-2243-4aa2-8bcf-b5395f026830_doqvpq.jpg',
   'https://res.cloudinary.com/dgdbxflan/image/upload/v1715925342/36fac09c-7f59-47fb-adf8-6e26627de774_yh27gp.jpg',
   'https://res.cloudinary.com/dgdbxflan/image/upload/v1715925342/5fe54c20-7e17-4ba1-8a86-15e573717142_n9xean.jpg',
-  'https://res.cloudinary.com/dgdbxflan/image/upload/v1715925342/24c6a0b1-d543-4b47-8cd3-355a59f58f0b_p0nt1o.jpg'
+  'https://res.cloudinary.com/dgdbxflan/image/upload/v1715925342/24c6a0b1-d543-4b47-8cd3-355a59f58f0b_p0nt1o.jpg',
+  'https://res.cloudinary.com/dgdbxflan/image/upload/v1715937746/whats-your-best-kanye-reaction-meme-v0-8twms4av2fka1_vza9ia.webp',
+  'https://res.cloudinary.com/dgdbxflan/image/upload/v1715937745/417457527670_k7jl85.webp'
+  'https://res.cloudinary.com/dgdbxflan/image/upload/v1715937745/30ce29dd-1f37-4866-ad75-016378a25f15_962x1203_gchvur.jpg',
+  'https://res.cloudinary.com/dgdbxflan/image/upload/v1715937745/OPH7CX54UVJMVDSR56CFJUXMY4_ay5v9p.avif',
+  'https://res.cloudinary.com/dgdbxflan/image/upload/v1715937745/4905_cwfxfo.webp',
+  'https://res.cloudinary.com/dgdbxflan/image/upload/v1715937745/Kanye-West_03-02-2016_t3yhjr.webp',
+  'https://res.cloudinary.com/dgdbxflan/image/upload/v1715937745/d8583fe287203342606b495f3045209a_iyyeir.jpg',
+  'https://res.cloudinary.com/dgdbxflan/image/upload/v1715937744/5c6bd57007800ce7467a1f3bfcb33dc0_sjynal.jpg',
+  'https://res.cloudinary.com/dgdbxflan/image/upload/v1715925343/I_MISS_THE_OLD_KANYE_KanyeWest_imissth_fam6aa.jpg',
+  'https://res.cloudinary.com/dgdbxflan/image/upload/v1715925342/573419e8-ec5d-4dfe-8b82-99fc35e96507_pc6kr7.jpg',
+  'https://res.cloudinary.com/dgdbxflan/image/upload/v1715924981/de0a5c7b-306c-4e1b-82df-764041d7936a_pesxgm.jpg',
+  'https://res.cloudinary.com/dgdbxflan/image/upload/v1715922189/artworks-liIwJimxFBgCDUCn-BwfSrg-t500x500_vqsxwi.jpg',
+  'https://res.cloudinary.com/dgdbxflan/image/upload/v1715921725/download_tcqmem.jpg'
 ];
 
 const Quote = () => {
